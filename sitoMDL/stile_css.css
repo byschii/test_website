@@ -1,0 +1,13 @@
+*{
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+body{
+	background-color: rgb(227, 227, 227);
+}
+
+div.page-content> * {
+
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 4px;
+ }
